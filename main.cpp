@@ -6,6 +6,7 @@ using namespace std;
 void solve() {
    cout<<"Welcome c++\n";
     cout<<" I tried with Git & GitHub";
+    cout<<"simple change";
 
 }
 int main() {
