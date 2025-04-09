@@ -1,0 +1,5 @@
+a- git status : Show the current state of your working directory and staging area.
+b- git init : Initialize new Git Repository in current directory.
+c- git commit : Save changes in the Git repository ,and move changes from the staging area (where git add place them) to the repository.
+d- git push : Upload your local commits to a remote repository (Like GitHub).
+
