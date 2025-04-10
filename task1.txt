@@ -1,5 +1,26 @@
+Question 1:
 a- git status : Show the current state of your working directory and staging area.
 b- git init : Initialize new Git Repository in current directory.
 c- git commit : Save changes in the Git repository ,and move changes from the staging area (where git add place them) to the repository.
 d- git push : Upload your local commits to a remote repository (Like GitHub).
+----------------------------------------------------------------------------------------------------------------------------------------------
+Question 2 :
+I disagree with ahmed;because (Git add) is the step where you move changes from your working directory to the staging area making them ready 
+to commit ,and that lets you choose which changes to include.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Question 3: 
+a- GitLab, Bitbucket
+b- individual developers :
+1-offers free private repositories
+2-code snippest
 
+collaborative development environment :
+1-pull/merge request
+2-issue tracking
+3-project management
+
+c- True
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Question 4:
+Tells Git to remember that origin main is the defualt remote branch for your current local branch,and git knows where to pull/push without 
+extra arguments ,and no longer need to specify origin main.
